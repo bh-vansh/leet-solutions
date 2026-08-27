@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bh-vansh/leet-solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/bh-vansh/leet-solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/bh-vansh/leet-solutions/tree/master/0507-perfect-number) |
+| [2235-add-two-integers](https://github.com/bh-vansh/leet-solutions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |

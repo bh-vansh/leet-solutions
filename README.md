@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bh-vansh/leet-solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/bh-vansh/leet-solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/bh-vansh/leet-solutions/tree/master/0507-perfect-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bh-vansh/leet-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/bh-vansh/leet-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/bh-vansh/leet-solutions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming

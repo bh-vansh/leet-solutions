@@ -4,12 +4,5 @@ int smallestEvenMultiple(int n) {
     {
         return n;
     }
-    for(i=n;i>=n;i++)
-    {
-        if(i%n==0)
-        {
-            return n*2;
-        }
-    }
     return n*2;
 }

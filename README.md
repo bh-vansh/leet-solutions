@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bh-vansh/leet-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Array
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

@@ -5,9 +5,9 @@ bool validDigit(int n, int x) {
         num=n%10;
         if(num==x)
         {
-            count++;
+            count=1;
         }
             n=n/10;
     }
-    return count>0 && num!=x;
+    return count && num!=x;
 }

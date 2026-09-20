@@ -97,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

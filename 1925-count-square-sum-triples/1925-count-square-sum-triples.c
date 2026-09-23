@@ -5,12 +5,10 @@ int countTriples(int n) {
     {
         for(b=1;b<=n;b++)
         {
-            for(c=1;c<=n;c++)
+            c=sqrt(a*a+b*b);
+            if(c<=n&&c==sqrt(a*a+b*b))
             {
-                if(a*a+b*b==c*c)
-                {
-                    count++;
-                }
+                count++;
             }
         }    
     }

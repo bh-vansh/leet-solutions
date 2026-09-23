@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
+| [1480-running-sum-of-1d-array](https://github.com/bh-vansh/leet-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/bh-vansh/leet-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

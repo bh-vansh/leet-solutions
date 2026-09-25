@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/bh-vansh/leet-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/bh-vansh/leet-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bh-vansh/leet-solutions/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/bh-vansh/leet-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bh-vansh/leet-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2544-alternating-digit-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1480-running-sum-of-1d-array](https://github.com/bh-vansh/leet-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Greedy
 |  |

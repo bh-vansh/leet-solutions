@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3908-valid-digit-number](https://github.com/bh-vansh/leet-solutions/tree/master/3908-valid-digit-number) |
+| [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |
 ## String
 |  |
 | ------- |

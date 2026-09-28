@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/bh-vansh/leet-solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/bh-vansh/leet-solutions/tree/master/0263-ugly-number) |
-| [0264-ugly-number-ii](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
+| [0264-ugly-number-II](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
 | [0507-perfect-number](https://github.com/bh-vansh/leet-solutions/tree/master/0507-perfect-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bh-vansh/leet-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |

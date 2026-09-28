@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/bh-vansh/leet-solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/bh-vansh/leet-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-II](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/bh-vansh/leet-solutions/tree/master/0507-perfect-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bh-vansh/leet-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
@@ -104,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -132,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bh-vansh/leet-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3908-valid-digit-number](https://github.com/bh-vansh/leet-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/bh-vansh/leet-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/bh-vansh/leet-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Greedy
 |  |
 | ------- |

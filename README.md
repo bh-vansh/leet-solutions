@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3908-valid-digit-number](https://github.com/bh-vansh/leet-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1323-maximum-69-number](https://github.com/bh-vansh/leet-solutions/tree/master/1323-maximum-69-number) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

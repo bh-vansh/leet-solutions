@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2769-find-the-maximum-achievable-number](https://github.com/bh-vansh/leet-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/bh-vansh/leet-solutions/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bh-vansh/leet-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3908-valid-digit-number](https://github.com/bh-vansh/leet-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |

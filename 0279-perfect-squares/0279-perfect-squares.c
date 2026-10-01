@@ -10,9 +10,14 @@ int numSquares(int n) {
     {
         for(j=1;j*j<=i;j++)
         {
-            if(1+dp[i-j*j]<dp[i])
+            int sq=j*j;
+            if(1+dp[i-sq]<dp[i])
             {
-                dp[i]=1+dp[i-j*j];
+                dp[i]=1+dp[i-sq];
+            }
+            if(dp[i]==1)
+            {
+                break;
             }
         }
     }

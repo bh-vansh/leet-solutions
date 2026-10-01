@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bh-vansh/leet-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/bh-vansh/leet-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bh-vansh/leet-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/bh-vansh/leet-solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/bh-vansh/leet-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/bh-vansh/leet-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bh-vansh/leet-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/bh-vansh/leet-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
+| [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bh-vansh/leet-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

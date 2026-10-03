@@ -4,32 +4,33 @@ int maximumProduct(int* nums, int numsSize) {
     int min1=1001,min2=1001;
     for(i=0;i<numsSize;i++)
     {
-        if(max1<nums[i])
+        int org=nums[i];
+        if(max1<org)
         {
             max3=max2;
             max2=max1;
-            max1=nums[i];
+            max1=org;
         }
-        else if(nums[i]>max2)
+        else if(org>max2)
         {
             max3=max2;
-            max2=nums[i];
+            max2=org;
         }
-        else if(nums[i]>max3)
+        else if(org>max3)
         {
-            max3=nums[i];
+            max3=org;
         }
-        if(min1>nums[i])
+        if(min1>org)
         {
             min2=min1;
-            min1=nums[i];
+            min1=org;
         }
-        else if(nums[i]<min2)
+        else if(org<min2)
         {
-            min2=nums[i];
+            min2=org;
         }
     }
-            pro1=max1*max2*max3;
-        pro2=min1*min2*max1;
+    pro1=max1*max2*max3;
+    pro2=min1*min2*max1;
     return pro1>pro2?pro1:pro2;
 }

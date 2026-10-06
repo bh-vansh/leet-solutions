@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bh-vansh/leet-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/bh-vansh/leet-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |

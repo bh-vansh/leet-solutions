@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bh-vansh/leet-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/bh-vansh/leet-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Greedy
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bh-vansh/leet-solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bh-vansh/leet-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bh-vansh/leet-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Breadth-First Search
 |  |
 | ------- |

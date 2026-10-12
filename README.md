@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/bh-vansh/leet-solutions/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/bh-vansh/leet-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0728-self-dividing-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bh-vansh/leet-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bh-vansh/leet-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |

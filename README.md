@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-number-of-common-factors](https://github.com/bh-vansh/leet-solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/bh-vansh/leet-solutions/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/bh-vansh/leet-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bh-vansh/leet-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2544-alternating-digit-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/bh-vansh/leet-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/bh-vansh/leet-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
 |  |
 | ------- |

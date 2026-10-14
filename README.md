@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bh-vansh/leet-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bh-vansh/leet-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3908-valid-digit-number](https://github.com/bh-vansh/leet-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bh-vansh/leet-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/bh-vansh/leet-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bh-vansh/leet-solutions/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bh-vansh/leet-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prime Factorization
 |  |
 | ------- |

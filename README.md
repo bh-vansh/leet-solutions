@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum

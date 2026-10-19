@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/bh-vansh/leet-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bh-vansh/leet-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/bh-vansh/leet-solutions/tree/master/1518-water-bottles) |
 | [1837-sum-of-digits-in-base-k](https://github.com/bh-vansh/leet-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/bh-vansh/leet-solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/bh-vansh/leet-solutions/tree/master/1952-three-divisors) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/bh-vansh/leet-solutions/tree/master/1518-water-bottles) |
 | [2169-count-operations-to-obtain-zero](https://github.com/bh-vansh/leet-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |

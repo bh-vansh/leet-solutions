@@ -15,7 +15,7 @@ int minimumDeletions(int* nums, int numsSize) {
     int left = minIndex < maxIndex ? minIndex : maxIndex;
     int right = minIndex > maxIndex ? minIndex : maxIndex;
 
-    // 3 possible ways
+    //possible ways
     int fromFront = right + 1;
     int fromBack = numsSize - left;
     int fromBoth = (left + 1) + (numsSize - right);

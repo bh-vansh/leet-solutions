@@ -141,6 +141,7 @@ A collection solutions of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
+| [1189-maximum-number-of-balloons](https://github.com/bh-vansh/leet-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -177,6 +178,7 @@ A collection solutions of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/bh-vansh/leet-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/bh-vansh/leet-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -197,6 +199,7 @@ A collection solutions of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/bh-vansh/leet-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bh-vansh/leet-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |

@@ -43,6 +43,7 @@ A collection solutions of LeetCode questions to ace the coding interview!
 | [3099-harshad-number](https://github.com/bh-vansh/leet-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bh-vansh/leet-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bh-vansh/leet-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bh-vansh/leet-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -124,6 +125,7 @@ A collection solutions of LeetCode questions to ace the coding interview!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bh-vansh/leet-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/bh-vansh/leet-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Greedy
 |  |

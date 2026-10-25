@@ -1,4 +1,4 @@
-A collection solutions of LeetCode questions to ace the coding interview!
+A collection solutions of LeetCode questions to ace the interview and GATE!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math

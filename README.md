@@ -38,6 +38,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bh-vansh/leet-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/bh-vansh/leet-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bh-vansh/leet-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bh-vansh/leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -133,6 +134,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1323-maximum-69-number](https://github.com/bh-vansh/leet-solutions/tree/master/1323-maximum-69-number) |
+| [2578-split-with-minimum-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2578-split-with-minimum-sum) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Longest Increasing Subsequence
 |  |
@@ -171,6 +173,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2578-split-with-minimum-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2578-split-with-minimum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |

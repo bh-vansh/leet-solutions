@@ -1,26 +1,27 @@
 int splitNum(int num){
-    int count[10] = {0};
-
-    while (num > 0) {
-        count[num % 10]++;
-        num /= 10;
+    int count[10]={0};
+    int digit=0;
+    int turn=0;
+    int d1=0,d2=0;
+    while(num>0)
+    {
+        count[num%10]++;
+        num/=10;
     }
-
-    int num1 = 0, num2 = 0;
-    int turn = 0;
-
-    for (int d = 0; d <= 9; d++) {
-        while (count[d] > 0) {
-            if (turn == 0)
-                num1 = num1 * 10 + d;
-            else
-                num2 = num2 * 10 + d;
-
-            turn = 1 - turn;
-            count[d]--;
+    for(digit=0;digit<=9;digit++)
+    while(count[digit]>0)
+    {
+        if(turn==0)
+        {
+            d1=d1*10+digit;
         }
+        else
+        {
+            d2=d2*10+digit;
+        }
+        count[digit]--;
+        turn=1-turn;
     }
-
-    return num1 + num2;
+    return d1+d2;
 }
     

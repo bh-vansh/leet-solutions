@@ -41,6 +41,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [2544-alternating-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/bh-vansh/leet-solutions/tree/master/2652-sum-multiples) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/bh-vansh/leet-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bh-vansh/leet-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bh-vansh/leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/bh-vansh/leet-solutions/tree/master/3099-harshad-number) |
@@ -156,6 +157,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/bh-vansh/leet-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

@@ -27,6 +27,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1952-three-divisors](https://github.com/bh-vansh/leet-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bh-vansh/leet-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/bh-vansh/leet-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bh-vansh/leet-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/bh-vansh/leet-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/bh-vansh/leet-solutions/tree/master/2235-add-two-integers) |
@@ -134,6 +135,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1323-maximum-69-number](https://github.com/bh-vansh/leet-solutions/tree/master/1323-maximum-69-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bh-vansh/leet-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2578-split-with-minimum-sum) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Longest Increasing Subsequence
@@ -172,6 +174,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bh-vansh/leet-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2578-split-with-minimum-sum](https://github.com/bh-vansh/leet-solutions/tree/master/2578-split-with-minimum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |

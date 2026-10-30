@@ -109,6 +109,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0001-two-sum](https://github.com/bh-vansh/leet-solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bh-vansh/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bh-vansh/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/bh-vansh/leet-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -148,6 +149,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | ------- |
 | [0001-two-sum](https://github.com/bh-vansh/leet-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bh-vansh/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
@@ -173,6 +175,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bh-vansh/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |

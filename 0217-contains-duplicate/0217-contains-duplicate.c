@@ -5,12 +5,14 @@ bool containsDuplicate(int* nums, int numsSize) {
     for(i=0;i<numsSize;i++)
     {
         int index=(nums[i]%200003+200003)%200003;
-        while(used[index]){    
+        while(used[index])
+        {    
         if(hash[index]==nums[i])
         {
             return true;
         }
-        index=1+index%200003;}
+        index=1+index%200003;
+        }
         hash[index]=nums[i];
         used[index]=1;        
     }

@@ -196,6 +196,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0709-to-lower-case](https://github.com/bh-vansh/leet-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/bh-vansh/leet-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |

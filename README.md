@@ -195,6 +195,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/bh-vansh/leet-solutions/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/bh-vansh/leet-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
@@ -246,4 +247,8 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/bh-vansh/leet-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

@@ -195,6 +195,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/bh-vansh/leet-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bh-vansh/leet-solutions/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/bh-vansh/leet-solutions/tree/master/0709-to-lower-case) |

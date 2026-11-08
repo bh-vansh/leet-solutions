@@ -22,6 +22,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bh-vansh/leet-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/bh-vansh/leet-solutions/tree/master/1518-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/bh-vansh/leet-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/bh-vansh/leet-solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/bh-vansh/leet-solutions/tree/master/1952-three-divisors) |
@@ -123,6 +124,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bh-vansh/leet-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/bh-vansh/leet-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bh-vansh/leet-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |

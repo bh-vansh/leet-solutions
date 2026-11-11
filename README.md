@@ -10,6 +10,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/bh-vansh/leet-solutions/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/bh-vansh/leet-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/bh-vansh/leet-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0728-self-dividing-numbers) |
@@ -202,6 +203,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0058-length-of-last-word](https://github.com/bh-vansh/leet-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bh-vansh/leet-solutions/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/bh-vansh/leet-solutions/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/bh-vansh/leet-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/bh-vansh/leet-solutions/tree/master/1189-maximum-number-of-balloons) |

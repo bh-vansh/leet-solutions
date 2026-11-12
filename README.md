@@ -114,6 +114,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bh-vansh/leet-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/bh-vansh/leet-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/bh-vansh/leet-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bh-vansh/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
@@ -262,6 +263,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bh-vansh/leet-solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/bh-vansh/leet-solutions/tree/master/0344-reverse-string) |
 ## Matrix
 |  |

@@ -1,0 +1,20 @@
+int tribonacci(int n) {
+    int sum=0;
+    int i,a=0,b=1,c=1;
+    if(n==0)
+    {
+        return 0;
+    }
+    if(n==1||n==2)
+    {
+        return 1;
+    }
+    for(i=3;i<=n;i++)
+    {
+        sum=a+b+c;
+        a=b;
+        b=c;
+        c=sum;       
+    }
+    return sum;
+}

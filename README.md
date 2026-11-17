@@ -46,6 +46,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [2652-sum-multiples](https://github.com/bh-vansh/leet-solutions/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/bh-vansh/leet-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bh-vansh/leet-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/bh-vansh/leet-solutions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bh-vansh/leet-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/bh-vansh/leet-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -79,6 +80,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1925-count-square-sum-triples](https://github.com/bh-vansh/leet-solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/bh-vansh/leet-solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/bh-vansh/leet-solutions/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/bh-vansh/leet-solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bh-vansh/leet-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |

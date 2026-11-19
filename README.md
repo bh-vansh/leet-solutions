@@ -56,6 +56,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [3536-maximum-product-of-two-digits](https://github.com/bh-vansh/leet-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bh-vansh/leet-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bh-vansh/leet-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/bh-vansh/leet-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/bh-vansh/leet-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3908-valid-digit-number](https://github.com/bh-vansh/leet-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/bh-vansh/leet-solutions/tree/master/3959-check-good-integer) |
@@ -144,6 +145,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bh-vansh/leet-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bh-vansh/leet-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bh-vansh/leet-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3663-find-the-least-frequent-digit](https://github.com/bh-vansh/leet-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/bh-vansh/leet-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/bh-vansh/leet-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/bh-vansh/leet-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3663-find-the-least-frequent-digit](https://github.com/bh-vansh/leet-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [1512-number-of-good-pairs](https://github.com/bh-vansh/leet-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/bh-vansh/leet-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bh-vansh/leet-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3663-find-the-least-frequent-digit](https://github.com/bh-vansh/leet-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Breadth-First Search
 |  |
 | ------- |

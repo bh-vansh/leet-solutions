@@ -14,7 +14,8 @@ int getLeastFrequentDigit(int n) {
     int max=-1;
     for(int i=0;i<=9;i++)
     {
-        if(digit[i]>0&&digit[i]<min)
+        int m=digit[i];
+        if(m>0&&m<min)
         {
             min=digit[i];
             max=i;

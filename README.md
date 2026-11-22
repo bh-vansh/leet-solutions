@@ -167,6 +167,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0217-contains-duplicate](https://github.com/bh-vansh/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/bh-vansh/leet-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/bh-vansh/leet-solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/bh-vansh/leet-solutions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/bh-vansh/leet-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -194,6 +195,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | [0169-majority-element](https://github.com/bh-vansh/leet-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bh-vansh/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/bh-vansh/leet-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bh-vansh/leet-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/bh-vansh/leet-solutions/tree/master/0888-fair-candy-swap) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bh-vansh/leet-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -214,6 +216,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 | ------- |
 | [0058-length-of-last-word](https://github.com/bh-vansh/leet-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bh-vansh/leet-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/bh-vansh/leet-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/bh-vansh/leet-solutions/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/bh-vansh/leet-solutions/tree/master/0709-to-lower-case) |
@@ -235,6 +238,7 @@ A collection solutions of LeetCode questions to ace the interview and GATE!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bh-vansh/leet-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/bh-vansh/leet-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bh-vansh/leet-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bh-vansh/leet-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
